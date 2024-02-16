@@ -1,4 +1,4 @@
-package org.spring.security;
+package com.spring.security;
 
 public class Main {
     public static void main(String[] args) {
